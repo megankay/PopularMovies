@@ -7,4 +7,4 @@
 **Project 2** built upon Project 1, adding functionality to PopularMovies. Movie trailers and reviews were added to the details view, as well as the ability for the user to mark a selected movie as a "Favorite". Marking a movie as a "Favorite" added it to a list that the user could view in addition to the lists for current popular and highest rated movies. The app was also optimized for use on a tablet.
 
 
-![alt text] (http://i.imgur.com/VeBW1j3.jpg?1)
+![alt text] (http://i.imgur.com/sOksA4e.jpg?1)
